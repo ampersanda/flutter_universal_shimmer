@@ -6,7 +6,7 @@ Universal Shimmer that you can construct like a Lego™
 ```yaml
 graphql_flutter:
   git:
-  url: https://github.com/ampersanda/flutter_universal_shimmer.git/
+    url: https://github.com/ampersanda/flutter_universal_shimmer.git/
 ```
 
 2. In dart file
