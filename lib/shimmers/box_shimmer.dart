@@ -7,7 +7,7 @@ class BoxShimmer extends StatelessWidget {
   /// Need to be wrapped with [Shimmer.fromColors]
   const BoxShimmer({Key key, this.width, this.height = 20.0}) : super(key: key);
 
-  /// Width of shimmer text.
+  /// Width of shimmer box.
   ///
   /// Defaults using [double.infinity] to expand the shimmer.
   final double width;
