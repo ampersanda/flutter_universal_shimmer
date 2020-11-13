@@ -1,5 +1,9 @@
 import 'package:flutter/widgets.dart';
+import 'package:shimmer/shimmer.dart';
 import 'package:universal_shimmer/colors.dart';
+
+import '../colors.dart';
+import '../universal_shimmer.dart';
 
 class CircleShimmer extends StatelessWidget {
   /// Show two dimensional shimmer as a regular placeholder.
