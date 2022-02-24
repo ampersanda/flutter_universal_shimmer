@@ -4,7 +4,7 @@ Universal Shimmer that you can construct like a Lego™
 # How to use
 1. Add dependencies to `pubspec.yaml`
 ```yaml
-graphql_flutter:
+universal_shimmer:
   git:
     url: https://github.com/ampersanda/flutter_universal_shimmer.git/
 ```
